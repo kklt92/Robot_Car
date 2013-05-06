@@ -16,12 +16,13 @@ In fact the delay variable depends on the weight of the car.
 ====================================================================================
 
 The specification of the project:
-
+=================================
 1. Car should follow the black line
 2. Car needs to carry an egg and the egg is not allowed to fall down.
 
 ===================================================================================
 
 The detail of design:
+=====================
 1. This code is designed to use the stepper motor.
 2. The algorithm for input from optic sensors is well work for both stepper or DC motor.
