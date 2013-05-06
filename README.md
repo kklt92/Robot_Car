@@ -25,4 +25,4 @@ The specification of the project:
 The detail of design:
 =====================
 1. This code is designed to use the stepper motor.
-2. The algorithm for input from optic sensors is well work for both stepper or DC motor.
+2. The algorithm for input from optic sensors is well work for both stepper and DC motor.
